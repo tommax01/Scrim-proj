@@ -1,8 +1,5 @@
 document.body.style.backgroundColor = "#111827";
 document.getElementById("C").style.color = "white";
-// document.getElementById("in").style.color = "red";
-// document.getElementById("in").style.fontSize = "50px";
-// document.getElementById("in").style.paddingLeft = "15px";
 let inp = document.getElementById("in")
 let inn = document.getElementById("inn")
 count1 = 0
